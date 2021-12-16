@@ -7,7 +7,7 @@ This api made by django rest api
 
 1. open cmd command
 2. git clone https://github.com/majiddawlat3/rest_api.git
-3. cd  myproject
+3. cd  rest_api
 4. pip install -r requirements.txt
 5. python manage.py runserver
 6. open  http://127.0.0.1:8000/api/docs  --> there all api lists will be appear
